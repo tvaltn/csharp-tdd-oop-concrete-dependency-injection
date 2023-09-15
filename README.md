@@ -113,7 +113,7 @@ class Program {
 
 ## Exercise
 
-In the `./tdd-oop-concrete-dependency-injection.CSharp.Main` directory are a number of classes. The `Computer` class has some dependencies which it is hard coding inside its methods. Your task is to refactor the Computer class to make the tests pass.
+In the `./tdd-oop-concrete-dependency-injection.CSharp.Main` directory are a number of classes. The `Computer` class has some dependencies which it is hard coding inside its methods. Your task is to refactor the Computer class to make the tests pass.  IMPORTANT: make sure you place a breakpoint early in the code and step through to follow the execution.  Some tests are actually quite simple to fix!
 
 The tests are in the `./src/test/java/com/booleanuk/core` directory. Don't change them, but you can use them as a guide to inform your decisions.
 
